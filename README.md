@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 Diploma in Computer Science Engineering (CSE)<br>- 🔥 Strong interest in **Web Development & Backend Logic**<br>- 🌱 Currently learning **Advanced MERN Stack**<br>- 🛠️ Love solving problems and learning new technologies<br>- 🌙 Nyctophile — I do my best coding at night 😄
+- 🎓 Diploma in Computer Science Engineering (CSE)<br>- 🔥 Strong interest in Web Development & Backend Logic <br>- 🌱 Currently learning Android and IOS Development <br>- 🛠️ Love solving problems and learning new technologies<br>- 🌙 Nyctophile — I do my best coding at night 😄
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=CodeWithNitesh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CodeWithNitesh7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithNitesh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeWithNitesh7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
